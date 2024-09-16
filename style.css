@@ -1,0 +1,36 @@
+div {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  margin-left: 10px;
+  background-clip: content-box;
+}
+
+#first {
+    padding: 15px;
+    align: top margin-left;    
+}
+
+#second{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 70px;
+}
+#third{
+    margin-top: 5px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+
+#fourth{
+    margin-top: 100px;
+    padding-left: 200px;
+    padding-right: 125px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
